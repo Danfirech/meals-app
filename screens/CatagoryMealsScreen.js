@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const CategoryMealsScreen = (props) => {
   return (
     <View style={styles.screen}>
-      <Text>The Category Meals Screen Screen!</Text>
+      <Text>The Category Meals Screen!</Text>
     </View>
   );
 };
